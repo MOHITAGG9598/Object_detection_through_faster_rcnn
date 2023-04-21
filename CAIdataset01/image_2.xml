@@ -1,0 +1,26 @@
+<annotation>
+	<folder>CAIdataset01</folder>
+	<filename>image_2.jpg</filename>
+	<path>C:\Users\Admin\OneDrive\Pictures\Documents\Python notes\AI Assignments\CAIdataset01\image_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>100</width>
+		<height>100</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Circle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>23</ymin>
+			<xmax>56</xmax>
+			<ymax>60</ymax>
+		</bndbox>
+	</object>
+</annotation>
